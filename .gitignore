@@ -1,0 +1,38 @@
+# --- C/C++ Build Artifacts ---
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+
+# Executables
+sender
+receiver
+
+# --- Python & Build System ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE / Editor Specifics ---
+# VS Code
+.vscode/
+.history/
+
+# JetBrains (IntelliJ/CLion/PyCharm)
+.idea/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Miscellaneous ---
+# Log files or temporary outputs
+*.log
+*.tmp
+*.bak
+*~
